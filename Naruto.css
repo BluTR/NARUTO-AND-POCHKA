@@ -1,0 +1,33 @@
+ul
+{
+	margin:0px;
+    padding:4px  
+}
+li
+{
+	display:inline;
+}
+.cont
+{display: flex;
+align-items:stretch;
+flex direction:row;  
+
+}
+
+.cont  h1
+{
+	color:green;
+}
+.box1
+{
+flex: 1;
+}
+.box2
+{
+flex: 2; 
+}
+.cont div
+{border:3px solid black;
+margin:10px; 
+
+}
